@@ -1,4 +1,3 @@
-
 namespace FormasApp.Abstractions;
 
 public abstract class Forma
