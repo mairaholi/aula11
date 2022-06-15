@@ -12,7 +12,7 @@ internal class Program
         new Retangulo()
     };
 
-    private static void Main(string[] args)
+    private static void Main()
     {
         foreach (var forma in _formas)
             Console.WriteLine(forma.PrintMe());
